@@ -1,0 +1,44 @@
+SQL Server 2014
+Main stream support - 5 Years till 2019
+Extended Support - Next 5 Years till 2014
+
+
+SQL Server 2016
+Main stream support - 5 Years till 2021
+Extended Support - Next 5 Years till 2026
+
+SQL Server 2019
+Main stream support - 5 Years till 24
+Extended Support - Next 5 Years till 29
+
+SQL Server 2022
+Main stream support - 5 Years till 28
+Extended Support - Next 5 Years till 33
+
+
+1. Mainstream Support
+
+Duration: First 5 years after product release (typically).
+
+What it includes:
+Security updates
+Non-security updates (bug fixes, performance improvements)
+New features or enhancements
+Free support (if applicable, or with Software Assurance)
+Warranty claims and design changes
+
+Think of it as full support — you're getting both new improvements and fixes.
+
+2. Extended Support
+Duration: Next 5 years after Mainstream ends (total = 10 years).
+
+What it includes:
+Security updates only
+Paid support only (no free support)
+No new features or design changes
+No warranty claims
+
+This is limited support — mostly for security updates only, to keep systems safe while you plan for upgrade/migration.
+
+
+

@@ -1,0 +1,59 @@
+SQL Server Installation – Prerequisites Notes
+---------------------------------------------
+1.  Supported Operating Systems
+
+Windows Server 2022 / 2019 / 2016
+Windows 11 / 10 (Developer/Express Editions)
+Core editions supported (limited features)
+Note: Check compatibility for your SQL Server version.
+
+2. Hardware Requirements (Minimum)
+
+Processor: 1.4 GHz 64-bit (2+ GHz recommended)
+RAM: 2 GB (4 GB or more recommended)
+Disk Space: 6 GB minimum (more for features/data)
+Display: 800x600 resolution or higher
+
+3. Software Requirements
+
+.NET Framework 4.8 (or required by your SQL version)
+Windows Installer 4.5+
+PowerShell 5.1+
+Visual C++ Redistributables (installed automatically if needed)
+
+4. User Permissions
+
+Local Administrator rights required
+UAC should not block the installer
+
+5. File System & Disk
+
+NTFS (FAT32 not supported)
+Enough space for:
+SQL Binaries
+TempDB
+Databases
+Backups & Logs
+
+6. Network & Firewall
+
+Default SQL port: TCP 1433
+Browser service: UDP 1434
+Open firewall ports if needed
+Named instances may use dynamic ports
+
+7. Features to Choose During Install
+
+Database Engine Services
+SQL Server Reporting Services (SSRS)
+Integration Services (SSIS)
+Analysis Services (SSAS)
+Full-Text Search, Client Tools, etc.
+
+8. Authentication & Accounts
+
+Choose Windows or Mixed Mode
+Strong password for sa account if Mixed
+Set SQL Server services to run with:
+Default accounts or custom domain accounts
+

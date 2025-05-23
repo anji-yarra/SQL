@@ -1,0 +1,7 @@
+MSSQL Management tools
+----------------------
+
+SQL management studio
+SQL Server configuration Manager - It allows basic configurations for SQL servers.
+SQL Server Profile - It provides graphical user interface to monitor of DB.
+Database Engine Tuning Advisor. - to create optimal sets of indexes, partions, and indexed views.
